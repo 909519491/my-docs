@@ -1,6 +1,6 @@
 # 欢迎使用 MkDocs
 
-这是一个示例文档，使用 **MkDocs** 进行构建。
+这是一个示例文档，使用 **MkDocs** 进行构建，并通过 **GitHub Actions** 自动部署到 GitHub Pages。
 
 - [关于](about.md)
 - [使用指南](guide.md)
